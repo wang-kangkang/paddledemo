@@ -1,1 +1,2 @@
-
+#in this folder,the two demos are incomplete, but which can be used to learning
+#在这个文件夹里的两个demo不是很完整，但也可以用于入门学习
